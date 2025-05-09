@@ -19,7 +19,7 @@ namespace Projeto_Github
 
         private void btnEntar(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Bem vindo ao Sistema");
         }
     }
 }
