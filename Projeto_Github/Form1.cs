@@ -16,5 +16,10 @@ namespace Projeto_Github
         {
             InitializeComponent();
         }
+
+        private void btnEntar(object sender, EventArgs e)
+        {
+
+        }
     }
 }
